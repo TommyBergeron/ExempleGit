@@ -1,12 +1,14 @@
 <?php
 
 
-$test = true;
+$test = false;
 if($test){
 echo "allo";
 }else{
-	echo "bonjour";
+	echo "salut";
 }
+
+echo "test";
 
 
 ?>
